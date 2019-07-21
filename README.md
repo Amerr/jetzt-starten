@@ -21,6 +21,11 @@
   - Binary Sort 
   - Quick Sort
   - Merge Sort
+ ##Git
+- Pull request
+- Branch
  
  ##ice 
  done a change
+
+
