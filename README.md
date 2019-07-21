@@ -22,4 +22,5 @@
   - Quick Sort
   - Merge Sort
  ##Git
- 
+- Branch
+- Pull request
