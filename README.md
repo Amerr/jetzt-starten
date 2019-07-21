@@ -5,6 +5,7 @@
  - Git (https://learngitbranching.js.org/)
  - Slack (https://21strokesworkspace.slack.com)
  - Hangouts
+ - visual Studio Code
 
 ## Learning Resources
  - Stackoverflow
@@ -27,5 +28,3 @@
  
  ##ice 
  done a change
-
-
