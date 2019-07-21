@@ -21,6 +21,7 @@
   - Binary Sort 
   - Quick Sort
   - Merge Sort
+ ##Git
  
  ##ice 
  done a change
