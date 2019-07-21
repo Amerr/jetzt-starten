@@ -26,6 +26,7 @@
   - Binary Sort 
   - Quick Sort
   - Merge Sort
+<<<<<<< HEAD
 
 ##Git
  - Pull request
@@ -34,3 +35,12 @@
 ##ice 
  - done a change
  
+=======
+ ##Git
+- Branch
+- Pull request
+##learninggit
+##coding
+ --c
+ --ruby
+>>>>>>> lang added
