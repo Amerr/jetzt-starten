@@ -24,3 +24,7 @@
  ##Git
 - Branch
 - Pull request
+##learninggit
+##coding
+ --c
+ --ruby
