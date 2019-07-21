@@ -7,10 +7,12 @@
  - Slack (https://21strokesworkspace.slack.com)
  - Hangouts
  - visual Studio Code
-
+ - Asana
+ 
 ## Learning Resources
  - Stackoverflow
- -Codepen
+ - Codepen
+
 
 ## Concepts
  - Internet
@@ -30,3 +32,5 @@
  
  ##ice 
  done a change
+
+ 
