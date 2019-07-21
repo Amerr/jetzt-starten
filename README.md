@@ -39,8 +39,7 @@
  ##Git
 - Branch
 - Pull request
-##learninggit
-##coding
+
+## language
  --c
- --ruby
->>>>>>> lang added
+ --ruby>>>>>>> lang added
