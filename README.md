@@ -27,11 +27,10 @@
   - Quick Sort
   - Merge Sort
 
- ##Git
-- Pull request
-- Branch
+##Git
+ - Pull request
+ - Branch
 
- ##ice 
- done a change
-
+##ice 
+ - done a change
  
