@@ -26,11 +26,16 @@
   - Binary Sort 
   - Quick Sort
   - Merge Sort
- ##Git
-- Pull request
-- Branch
- 
- ##ice 
- done a change
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+##Git
+ - Pull request
+ - Branch
+
+##ice 
+ - done a change
  
+## language
+ --c
+ --ruby
