@@ -27,6 +27,7 @@
   - Quick Sort
   - Merge Sort
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ##Git
  - Pull request
@@ -35,11 +36,6 @@
 ##ice 
  - done a change
  
-=======
- ##Git
-- Branch
-- Pull request
-
 ## language
  --c
- --ruby>>>>>>> lang added
+ --ruby
