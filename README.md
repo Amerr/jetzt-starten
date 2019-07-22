@@ -27,8 +27,7 @@
   - Binary Sort 
   - Quick Sort
   - Merge Sort
-
-
+  
 ##Git
  - Pull request
  - Branch
@@ -55,4 +54,3 @@
 - best ever cricketer
 - cool captian
 
- 
