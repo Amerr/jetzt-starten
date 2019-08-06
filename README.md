@@ -53,4 +53,30 @@
 ##dhoni
 - best ever cricketer
 - cool captian
+## calculator project
+puts "enter the first number:"
+a=gets.chomp.to_f
+
+puts"operators"
+opr=gets.chomp
+
+puts "enter the second number:"
+b=gets.chomp.to_f
+
+if  opr=="+"
+puts a+b
+
+elsif opr=="-"
+puts a-b
+
+elsif opr=="*"
+puts a*b
+
+elsif opr=="/"
+puts a/b
+
+else
+puts "invalid operators"
+
+ end
 
