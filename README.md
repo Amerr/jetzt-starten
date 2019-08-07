@@ -80,3 +80,6 @@ puts "invalid operators"
 
  end
 
+## array
+car_type=["benz","bmw","audi"]
+puts car_type.length
