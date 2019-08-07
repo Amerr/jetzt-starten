@@ -60,3 +60,12 @@
           puts "Invalid operator"
 
      end
+  ##program
+   -- Arr length
+    soda_type=["sprite" , "mazza" , "lime" , "coco" , "apple" , "kalimark"]
+    puts soda_type.length
+
+    puts soda_type.reverse
+
+    puts soda_type.sort
+ 
