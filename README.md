@@ -69,3 +69,8 @@
 
     puts soda_type.sort
  
+##substring Ruby
+  -- a=["My Name is Vkypandi","Arjun Reddy","Preethi"]
+     puts a[0][0..18]
+     puts a[1][0..11]
+     puts a[2][0..6]
