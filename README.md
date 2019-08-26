@@ -43,7 +43,12 @@
  --ruby
 ##mahesh 
 - pull request
-- done
+
+## sub array
+A=["i love football","player is ronaldo","love him"]
+puts A[0][0..13]
+puts A[1][0..15]
+puts A[2][0..3]
 ##dharma
 - work
 - hard
