@@ -1,13 +1,13 @@
-#
-#Basics of Programming Knowledge
+# Basics of Programming Knowledge
 
 ## Software
  - Ubuntu / Mac OS 
  - Git (https://learngitbranching.js.org/)
  - Slack (https://21strokesworkspace.slack.com)
  - Hangouts
- - visual Studio Code
+ - visual Studio Code & VS-Code [plugins](https://x-team.com/blog/best-vscode-extensions/)
  - Asana
+ - GitHub - [Project Boards](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards)
  
 ## Learning Resources
  - Stackoverflow
